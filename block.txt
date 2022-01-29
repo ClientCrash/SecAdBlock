@@ -1,0 +1,2 @@
+# This domain is no longer owned by samsung.
+0.0.0.0 ssuggest.com
